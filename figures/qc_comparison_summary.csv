@@ -1,0 +1,4 @@
+"condition","min_counts","min_features","cells_retained","pct_retained","n_clusters"
+"Lenient",10,10,490610,100,13
+"Standard",25,20,454652,92.7,11
+"Strict",100,50,184408,37.6,14
